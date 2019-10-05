@@ -1,0 +1,1 @@
+atom 中的文件, 怎么与 GitHub DeskTop 中的文件自动关联?
